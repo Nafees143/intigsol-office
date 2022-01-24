@@ -5,3 +5,50 @@ We are working 100+ professional software engineers with more than 10 years of e
 ABOUT COMPANY:
 Our Partner for Software Innovation
 
+{
+//WHY CHOOSE US:
+We Provide a Wide Range of IT Solutions.
+
+Web Solution:
+From complex intranet platforms to interactive marketing websites, we make things premium, functional, and convenient.
+
+E-commerce Solution:
+We offer a diverse range of ecommerce software, packages, and shopping carts that guarantee the best value for your investment.
+
+Software Development:
+We build premium and functional software for your businesses, totally customized according to your business structure.
+
+UI/UX Design:
+Our expert team delivers you premium-quality UI/UX designs that capture your brand and improve your conversion rate.
+
+Digital Marketing:
+Our marketing masterminds and skilled SEO strategists are dedicated to complementing the digital presence of your business.
+}
+
+
+
+{
+//OUR SERVICE
+
+WEB DEVELOPMENT:
+We carry more than just good coding skills. Our experience makes us stand out from other web development companies.
+
+Dedicated Team:
+Over the past decade, our customers have succeeded by leveraging Intellectsoft’s process of building and motivating.
+}
+
+
+
+{
+// Industry we serve:
+Intigsol dedicates itself to providing exceptional IT services tailored to the diverse needs of different industries. With our top-class technological support and solutions, we aim to be a trusted name for industries like retail, healthcare, education, IT, fintech, real estate, and many more. We always ensure uncompromised efforts and exceptional teamwork to deliver the best services, regardless of the industry we work in.
+}
+
+
+
+
+
+
+
+
+
